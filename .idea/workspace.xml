@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f037404-6fa2-4d01-b951-473fd57fd25c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WHVfc492cYXK3UzDmLuzSdAxSU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.CochraneLibraryParser">
+    <configuration name="CochraneLibraryParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CochraneLibraryParser" />
+      <module name="cochrane-library" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HrefFetcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HrefFetcher" />
+      <module name="cochrane-library" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Temp" />
+      <module name="cochrane-library" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CochraneLibraryParser" />
+        <item itemvalue="Application.Temp" />
+        <item itemvalue="Application.HrefFetcher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f037404-6fa2-4d01-b951-473fd57fd25c" name="Default Changelist" comment="" />
+      <created>1578806611220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578806611220</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="67" key="#Project_Structure" timestamp="1578806705889">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="67" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1578806705889" />
+    <state x="452" y="444" key="#com.intellij.ide.util.MemberChooser" timestamp="1579486181730">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="452" y="444" key="#com.intellij.ide.util.MemberChooser/-1280.32.1280.800/0.0.2560.1440@0.0.2560.1440" timestamp="1579486181730" />
+    <state x="344" y="227" key="#xdebugger.evaluate" timestamp="1579564202175">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="687" y="454" key="#xdebugger.evaluate/-1280.32.1280.800/0.0.2560.1440@0.0.2560.1440" timestamp="1579483973278" />
+    <state x="344" y="227" key="#xdebugger.evaluate/0.0.1280.800@0.0.1280.800" timestamp="1579564202175" />
+    <state x="397" y="267" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1579547581615">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="397" y="267" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.800@0.0.1280.800" timestamp="1579547581615" />
+    <state width="501" height="373" key="DebuggerActiveHint" timestamp="1579562864906">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="879" height="670" key="DebuggerActiveHint/-1280.32.1280.800/0.0.2560.1440@0.0.2560.1440" timestamp="1579482801595" />
+    <state width="501" height="373" key="DebuggerActiveHint/0.0.1280.800@0.0.1280.800" timestamp="1579562864906" />
+    <state width="1238" height="280" key="GridCell.Tab.0.bottom" timestamp="1579579441846">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="687" key="GridCell.Tab.0.bottom/-1280.32.1280.800/0.0.2560.1440@0.0.2560.1440" timestamp="1579489843883" />
+    <state width="1236" height="323" key="GridCell.Tab.0.bottom/-1280.55.1280.777/0.0.2560.1440@0.0.2560.1440" timestamp="1579480721668" />
+    <state width="1238" height="280" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1579579441846" />
+    <state width="1238" height="305" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1579557216301" />
+    <state width="1238" height="280" key="GridCell.Tab.0.center" timestamp="1579579441846">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="687" key="GridCell.Tab.0.center/-1280.32.1280.800/0.0.2560.1440@0.0.2560.1440" timestamp="1579489843881" />
+    <state width="1236" height="323" key="GridCell.Tab.0.center/-1280.55.1280.777/0.0.2560.1440@0.0.2560.1440" timestamp="1579480721661" />
+    <state width="1238" height="280" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1579579441846" />
+    <state width="1238" height="305" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1579557216299" />
+    <state width="1238" height="280" key="GridCell.Tab.0.left" timestamp="1579579441845">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="687" key="GridCell.Tab.0.left/-1280.32.1280.800/0.0.2560.1440@0.0.2560.1440" timestamp="1579489843880" />
+    <state width="1236" height="323" key="GridCell.Tab.0.left/-1280.55.1280.777/0.0.2560.1440@0.0.2560.1440" timestamp="1579480721659" />
+    <state width="1238" height="280" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1579579441845" />
+    <state width="1238" height="305" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1579557216288" />
+    <state width="1238" height="280" key="GridCell.Tab.0.right" timestamp="1579579441846">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="687" key="GridCell.Tab.0.right/-1280.32.1280.800/0.0.2560.1440@0.0.2560.1440" timestamp="1579489843882" />
+    <state width="1236" height="323" key="GridCell.Tab.0.right/-1280.55.1280.777/0.0.2560.1440@0.0.2560.1440" timestamp="1579480721664" />
+    <state width="1238" height="280" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1579579441846" />
+    <state width="1238" height="305" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1579557216300" />
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom" timestamp="1579564207898">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="518" key="GridCell.Tab.1.bottom/-1280.32.1280.800/0.0.2560.1440@0.0.2560.1440" timestamp="1579484505287" />
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1579564207898" />
+    <state width="1238" height="296" key="GridCell.Tab.1.bottom/0.23.1280.716@0.23.1280.716" timestamp="1579552448829" />
+    <state width="1238" height="263" key="GridCell.Tab.1.center" timestamp="1579564207896">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="518" key="GridCell.Tab.1.center/-1280.32.1280.800/0.0.2560.1440@0.0.2560.1440" timestamp="1579484505283" />
+    <state width="1238" height="263" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1579564207896" />
+    <state width="1238" height="296" key="GridCell.Tab.1.center/0.23.1280.716@0.23.1280.716" timestamp="1579552448828" />
+    <state width="1238" height="263" key="GridCell.Tab.1.left" timestamp="1579564207895">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="518" key="GridCell.Tab.1.left/-1280.32.1280.800/0.0.2560.1440@0.0.2560.1440" timestamp="1579484505282" />
+    <state width="1238" height="263" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1579564207895" />
+    <state width="1238" height="296" key="GridCell.Tab.1.left/0.23.1280.716@0.23.1280.716" timestamp="1579552448827" />
+    <state width="1238" height="263" key="GridCell.Tab.1.right" timestamp="1579564207897">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="518" key="GridCell.Tab.1.right/-1280.32.1280.800/0.0.2560.1440@0.0.2560.1440" timestamp="1579484505285" />
+    <state width="1238" height="263" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1579564207897" />
+    <state width="1238" height="296" key="GridCell.Tab.1.right/0.23.1280.716@0.23.1280.716" timestamp="1579552448829" />
+    <state x="141" y="39" key="SettingsEditor" timestamp="1579579677497">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1579579677497" />
+    <state width="320" height="400" key="XDebugger.FullValuePopup" timestamp="1579562864872">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="639" height="720" key="XDebugger.FullValuePopup/-1280.32.1280.800/0.0.2560.1440@0.0.2560.1440" timestamp="1579482216424" />
+    <state width="320" height="400" key="XDebugger.FullValuePopup/0.0.1280.800@0.0.1280.800" timestamp="1579562864872" />
+    <state x="423" y="186" key="chooseDestDirectoryDialog" timestamp="1578880656974">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="423" y="186" key="chooseDestDirectoryDialog/0.0.1280.800@0.0.1280.800" timestamp="1578880656974" />
+    <state x="100" y="100" width="1080" height="600" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579549120380">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="100" y="100" width="1080" height="600" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.800@0.0.1280.800" timestamp="1579549120380" />
+    <state x="294" y="234" key="com.intellij.ide.util.TipDialog" timestamp="1579459143644">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="294" y="234" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1579459143644" />
+    <state x="107" y="258" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1579555497188">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="213" y="464" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-1280.32.1280.800/0.0.2560.1440@0.0.2560.1440" timestamp="1579482439092" />
+    <state x="107" y="258" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.800@0.0.1280.800" timestamp="1579555497188" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1579579456318">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1579579456318" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="document" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
