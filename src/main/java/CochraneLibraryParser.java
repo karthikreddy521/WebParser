@@ -45,7 +45,8 @@ public class CochraneLibraryParser {
         }
         System.out.println("Please select a topic from above. Default option is 1.");
         Scanner input = new Scanner(System.in);
-        String in = input.nextLine();
+//        String in = input.nextLine();
+        String in = input.nextLine().trim();
         int inputChoice;
         if(in.equals(""))  {
             System.out.println("Invalid choice. Running default stats for : " + selectedTopic );
