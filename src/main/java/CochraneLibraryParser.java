@@ -36,11 +36,11 @@ public class CochraneLibraryParser {
         writer.close();
     }
 
-    public  String chooseTopic(Map<String, String> map){
+    public  String chooseTopic(Map<String, String> map) {
 
-        int counter=1;
-        for(Map.Entry entry: topics.entrySet()){
-            System.out.println("\t\t"+counter+ " : "+ entry.getKey());
+        int counter = 1;
+        for (Map.Entry entry : topics.entrySet()) {
+            System.out.println("\t\t" + counter + " : " + entry.getKey());
             counter++;
         }
         System.out.println("Please select a topic from above. Default option is 1.");
@@ -48,22 +48,26 @@ public class CochraneLibraryParser {
 //        String in = input.nextLine();
         String in = input.nextLine().trim();
         int inputChoice;
-        if(in.equals(""))  {
-            System.out.println("Invalid choice. Running default stats for : " + selectedTopic );
-            return  selectedTopic;}
-
-        else
-        {
-            inputChoice=Integer.parseInt(in);
-            if(inputChoice <= 0 || inputChoice > counter-1) {
-                System.out.println("Invalid Choice. Running default stats for : " + selectedTopic);
+        try {
+            if (in.equals("")) {
+                System.out.println("Invalid choice. Running default stats for : " + selectedTopic);
                 return selectedTopic;
+            } else {
+                inputChoice = Integer.parseInt(in);
+                if (inputChoice <= 0 || inputChoice > counter - 1) {
+                    System.out.println("Invalid Choice. Running default stats for : " + selectedTopic);
+                    return selectedTopic;
+                } else
+                    System.out.println("Running stats for : " + (String) topics.keySet().toArray()[inputChoice - 1]);
+                return (String) topics.keySet().toArray()[inputChoice - 1];
             }
-            else
-            System.out.println("Running stats for : "+ (String)topics.keySet().toArray()[inputChoice-1]);
-            return (String)topics.keySet().toArray()[inputChoice-1];
+        }
+        catch (NumberFormatException ex) {
+            System.out.println("Please enter a number");
+            System.exit(0); return "";
         }
     }
+
     public static void main(String[] args) throws Exception {
 
         new CochraneLibraryParser().getReviews("https://www.cochranelibrary.com/cdsr/reviews/topics");
