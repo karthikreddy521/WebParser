@@ -4,7 +4,6 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import javax.print.Doc;
 import java.io.*;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
@@ -13,11 +12,11 @@ import java.util.*;
 public class ReviewParser {
 
     private HashSet<String> links = new HashSet<String>();
-    List<ReviewModel> reviewModelList = new ArrayList<ReviewModel>();
-    Document doc= null;
+    private List<ReviewModel> reviewModelList = new ArrayList<ReviewModel>();
+//    Document doc= null;
     boolean goToNextflag=true;
 
-    BufferedWriter writer1;
+//    BufferedWriter writer1;
     public List<ReviewModel> readReview(String reviewURL, String Topic) throws Exception{
         System.out.println("Please wait while reviews are being parsed...");
 

@@ -6,9 +6,9 @@ public class CochraneLibraryParser {
     private HashSet<String> links;
     private HrefFetcher hrefFetcher;
     private ReviewParser reviewParser;
-    Map<String, String> topics = new TreeMap<String,String>();
-    List<ReviewModel> reviewModelList = new ArrayList<ReviewModel>();
-    String selectedTopic="Allergy & intolerance";
+    private Map<String, String> topics = new TreeMap<String,String>();
+    private List<ReviewModel> reviewModelList = new ArrayList<ReviewModel>();
+    private String selectedTopic="Allergy & intolerance";
 
     public CochraneLibraryParser() {
         this.hrefFetcher = new HrefFetcher();
